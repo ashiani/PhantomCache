@@ -414,7 +414,7 @@ cout << "Inicio: "
 	}
 	return 0;
 */
-	const int N = 10000; // 
+	const int N = 1000; // 
     std::vector<long long> phantom(N);
     std::vector<long long> original(N);
     std::vector<long long> diff(N); // aquí guardaremos las diferencias
